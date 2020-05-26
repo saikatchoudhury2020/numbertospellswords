@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertnumbertospellswords", "convertnumbertospellswords\convertnumbertospellswords.csproj", "{AB7C4B5E-D31D-4141-9AC4-C08BB8ED30C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertnumbertospellswords.Tests", "convertnumbertospellswords.Tests\convertnumbertospellswords.Tests.csproj", "{A4BA34A6-15C7-4A2F-9A41-451B1A92BEE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7C4B5E-D31D-4141-9AC4-C08BB8ED30C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7C4B5E-D31D-4141-9AC4-C08BB8ED30C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7C4B5E-D31D-4141-9AC4-C08BB8ED30C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7C4B5E-D31D-4141-9AC4-C08BB8ED30C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4BA34A6-15C7-4A2F-9A41-451B1A92BEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BA34A6-15C7-4A2F-9A41-451B1A92BEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BA34A6-15C7-4A2F-9A41-451B1A92BEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BA34A6-15C7-4A2F-9A41-451B1A92BEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {268EFF86-147B-4DDD-9C86-D4A2D5EC1A4E}
+	EndGlobalSection
+EndGlobal
